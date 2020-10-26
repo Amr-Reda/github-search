@@ -1,6 +1,6 @@
 # Github Search
 
-A simple app for github search api
+A simple app for github search api [check demo](https://github-search-app-123.herokuapp.com/).
 
 ---
 ## Prerequisites

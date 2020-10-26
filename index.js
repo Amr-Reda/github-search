@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const path = require('path');
 
 const {search} = require('./src/modules/search/controller');
-const PORT = 3000;
+const port = process.env.PORT || 3000;
 const app = express();
 
 // Parse application/json

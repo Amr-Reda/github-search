@@ -26,7 +26,7 @@ v8.16.0
 ## Running the project
 
     $ npm start
-- this will run the app on port 3000
+- this will run the app on port `3000`
 
 ## Testing
 
